@@ -1,0 +1,23 @@
+{
+  "/Users/varunjoshi/Downloads/BrainRush/BrainRush/MainTabBarController.swift" : {
+    "const-values" : "/Users/varunjoshi/Downloads/BrainRush/build/Build/Intermediates.noindex/BrainRush.build/Debug-iphonesimulator/BrainRush.build/Objects-normal/x86_64/MainTabBarController.swiftconstvalues",
+    "dependencies" : "/Users/varunjoshi/Downloads/BrainRush/build/Build/Intermediates.noindex/BrainRush.build/Debug-iphonesimulator/BrainRush.build/Objects-normal/x86_64/MainTabBarController.d",
+    "diagnostics" : "/Users/varunjoshi/Downloads/BrainRush/build/Build/Intermediates.noindex/BrainRush.build/Debug-iphonesimulator/BrainRush.build/Objects-normal/x86_64/MainTabBarController.dia",
+    "object" : "/Users/varunjoshi/Downloads/BrainRush/build/Build/Intermediates.noindex/BrainRush.build/Debug-iphonesimulator/BrainRush.build/Objects-normal/x86_64/MainTabBarController.o",
+    "swift-dependencies" : "/Users/varunjoshi/Downloads/BrainRush/build/Build/Intermediates.noindex/BrainRush.build/Debug-iphonesimulator/BrainRush.build/Objects-normal/x86_64/MainTabBarController.swiftdeps"
+  },
+  "/Users/varunjoshi/Downloads/BrainRush/BrainRush/Models.swift" : {
+    "const-values" : "/Users/varunjoshi/Downloads/BrainRush/build/Build/Intermediates.noindex/BrainRush.build/Debug-iphonesimulator/BrainRush.build/Objects-normal/x86_64/Models.swiftconstvalues",
+    "dependencies" : "/Users/varunjoshi/Downloads/BrainRush/build/Build/Intermediates.noindex/BrainRush.build/Debug-iphonesimulator/BrainRush.build/Objects-normal/x86_64/Models.d",
+    "diagnostics" : "/Users/varunjoshi/Downloads/BrainRush/build/Build/Intermediates.noindex/BrainRush.build/Debug-iphonesimulator/BrainRush.build/Objects-normal/x86_64/Models.dia",
+    "object" : "/Users/varunjoshi/Downloads/BrainRush/build/Build/Intermediates.noindex/BrainRush.build/Debug-iphonesimulator/BrainRush.build/Objects-normal/x86_64/Models.o",
+    "swift-dependencies" : "/Users/varunjoshi/Downloads/BrainRush/build/Build/Intermediates.noindex/BrainRush.build/Debug-iphonesimulator/BrainRush.build/Objects-normal/x86_64/Models.swiftdeps"
+  },
+  "/Users/varunjoshi/Downloads/BrainRush/BrainRush/NavigationCoordinator.swift" : {
+    "const-values" : "/Users/varunjoshi/Downloads/BrainRush/build/Build/Intermediates.noindex/BrainRush.build/Debug-iphonesimulator/BrainRush.build/Objects-normal/x86_64/NavigationCoordinator.swiftconstvalues",
+    "dependencies" : "/Users/varunjoshi/Downloads/BrainRush/build/Build/Intermediates.noindex/BrainRush.build/Debug-iphonesimulator/BrainRush.build/Objects-normal/x86_64/NavigationCoordinator.d",
+    "diagnostics" : "/Users/varunjoshi/Downloads/BrainRush/build/Build/Intermediates.noindex/BrainRush.build/Debug-iphonesimulator/BrainRush.build/Objects-normal/x86_64/NavigationCoordinator.dia",
+    "object" : "/Users/varunjoshi/Downloads/BrainRush/build/Build/Intermediates.noindex/BrainRush.build/Debug-iphonesimulator/BrainRush.build/Objects-normal/x86_64/NavigationCoordinator.o",
+    "swift-dependencies" : "/Users/varunjoshi/Downloads/BrainRush/build/Build/Intermediates.noindex/BrainRush.build/Debug-iphonesimulator/BrainRush.build/Objects-normal/x86_64/NavigationCoordinator.swiftdeps"
+  }
+}

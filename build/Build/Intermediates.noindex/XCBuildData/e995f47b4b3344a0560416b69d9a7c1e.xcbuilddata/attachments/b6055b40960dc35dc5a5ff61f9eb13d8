@@ -1,0 +1,79 @@
+{
+  "" : {
+    "diagnostics" : "/Users/varunjoshi/Downloads/BrainRush/build/Build/Intermediates.noindex/BrainRush.build/Debug-iphonesimulator/BrainRush.build/Objects-normal/arm64/BrainRush-primary.dia",
+    "emit-module-dependencies" : "/Users/varunjoshi/Downloads/BrainRush/build/Build/Intermediates.noindex/BrainRush.build/Debug-iphonesimulator/BrainRush.build/Objects-normal/arm64/BrainRush-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/varunjoshi/Downloads/BrainRush/build/Build/Intermediates.noindex/BrainRush.build/Debug-iphonesimulator/BrainRush.build/Objects-normal/arm64/BrainRush-primary-emit-module.dia",
+    "pch" : "/Users/varunjoshi/Downloads/BrainRush/build/Build/Intermediates.noindex/BrainRush.build/Debug-iphonesimulator/BrainRush.build/Objects-normal/arm64/BrainRush-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/varunjoshi/Downloads/BrainRush/build/Build/Intermediates.noindex/BrainRush.build/Debug-iphonesimulator/BrainRush.build/Objects-normal/arm64/BrainRush-primary.swiftdeps"
+  },
+  "/Users/varunjoshi/Downloads/BrainRush/BrainRush/AppDelegate.swift" : {
+    "const-values" : "/Users/varunjoshi/Downloads/BrainRush/build/Build/Intermediates.noindex/BrainRush.build/Debug-iphonesimulator/BrainRush.build/Objects-normal/arm64/AppDelegate.swiftconstvalues",
+    "dependencies" : "/Users/varunjoshi/Downloads/BrainRush/build/Build/Intermediates.noindex/BrainRush.build/Debug-iphonesimulator/BrainRush.build/Objects-normal/arm64/AppDelegate.d",
+    "diagnostics" : "/Users/varunjoshi/Downloads/BrainRush/build/Build/Intermediates.noindex/BrainRush.build/Debug-iphonesimulator/BrainRush.build/Objects-normal/arm64/AppDelegate.dia",
+    "index-unit-output-path" : "/BrainRush.build/Debug-iphonesimulator/BrainRush.build/Objects-normal/arm64/AppDelegate.o",
+    "llvm-bc" : "/Users/varunjoshi/Downloads/BrainRush/build/Build/Intermediates.noindex/BrainRush.build/Debug-iphonesimulator/BrainRush.build/Objects-normal/arm64/AppDelegate.bc",
+    "object" : "/Users/varunjoshi/Downloads/BrainRush/build/Build/Intermediates.noindex/BrainRush.build/Debug-iphonesimulator/BrainRush.build/Objects-normal/arm64/AppDelegate.o",
+    "swift-dependencies" : "/Users/varunjoshi/Downloads/BrainRush/build/Build/Intermediates.noindex/BrainRush.build/Debug-iphonesimulator/BrainRush.build/Objects-normal/arm64/AppDelegate.swiftdeps",
+    "swiftmodule" : "/Users/varunjoshi/Downloads/BrainRush/build/Build/Intermediates.noindex/BrainRush.build/Debug-iphonesimulator/BrainRush.build/Objects-normal/arm64/AppDelegate~partial.swiftmodule"
+  },
+  "/Users/varunjoshi/Downloads/BrainRush/BrainRush/GameManager.swift" : {
+    "const-values" : "/Users/varunjoshi/Downloads/BrainRush/build/Build/Intermediates.noindex/BrainRush.build/Debug-iphonesimulator/BrainRush.build/Objects-normal/arm64/GameManager.swiftconstvalues",
+    "dependencies" : "/Users/varunjoshi/Downloads/BrainRush/build/Build/Intermediates.noindex/BrainRush.build/Debug-iphonesimulator/BrainRush.build/Objects-normal/arm64/GameManager.d",
+    "diagnostics" : "/Users/varunjoshi/Downloads/BrainRush/build/Build/Intermediates.noindex/BrainRush.build/Debug-iphonesimulator/BrainRush.build/Objects-normal/arm64/GameManager.dia",
+    "index-unit-output-path" : "/BrainRush.build/Debug-iphonesimulator/BrainRush.build/Objects-normal/arm64/GameManager.o",
+    "llvm-bc" : "/Users/varunjoshi/Downloads/BrainRush/build/Build/Intermediates.noindex/BrainRush.build/Debug-iphonesimulator/BrainRush.build/Objects-normal/arm64/GameManager.bc",
+    "object" : "/Users/varunjoshi/Downloads/BrainRush/build/Build/Intermediates.noindex/BrainRush.build/Debug-iphonesimulator/BrainRush.build/Objects-normal/arm64/GameManager.o",
+    "swift-dependencies" : "/Users/varunjoshi/Downloads/BrainRush/build/Build/Intermediates.noindex/BrainRush.build/Debug-iphonesimulator/BrainRush.build/Objects-normal/arm64/GameManager.swiftdeps",
+    "swiftmodule" : "/Users/varunjoshi/Downloads/BrainRush/build/Build/Intermediates.noindex/BrainRush.build/Debug-iphonesimulator/BrainRush.build/Objects-normal/arm64/GameManager~partial.swiftmodule"
+  },
+  "/Users/varunjoshi/Downloads/BrainRush/BrainRush/Models.swift" : {
+    "const-values" : "/Users/varunjoshi/Downloads/BrainRush/build/Build/Intermediates.noindex/BrainRush.build/Debug-iphonesimulator/BrainRush.build/Objects-normal/arm64/Models.swiftconstvalues",
+    "dependencies" : "/Users/varunjoshi/Downloads/BrainRush/build/Build/Intermediates.noindex/BrainRush.build/Debug-iphonesimulator/BrainRush.build/Objects-normal/arm64/Models.d",
+    "diagnostics" : "/Users/varunjoshi/Downloads/BrainRush/build/Build/Intermediates.noindex/BrainRush.build/Debug-iphonesimulator/BrainRush.build/Objects-normal/arm64/Models.dia",
+    "index-unit-output-path" : "/BrainRush.build/Debug-iphonesimulator/BrainRush.build/Objects-normal/arm64/Models.o",
+    "llvm-bc" : "/Users/varunjoshi/Downloads/BrainRush/build/Build/Intermediates.noindex/BrainRush.build/Debug-iphonesimulator/BrainRush.build/Objects-normal/arm64/Models.bc",
+    "object" : "/Users/varunjoshi/Downloads/BrainRush/build/Build/Intermediates.noindex/BrainRush.build/Debug-iphonesimulator/BrainRush.build/Objects-normal/arm64/Models.o",
+    "swift-dependencies" : "/Users/varunjoshi/Downloads/BrainRush/build/Build/Intermediates.noindex/BrainRush.build/Debug-iphonesimulator/BrainRush.build/Objects-normal/arm64/Models.swiftdeps",
+    "swiftmodule" : "/Users/varunjoshi/Downloads/BrainRush/build/Build/Intermediates.noindex/BrainRush.build/Debug-iphonesimulator/BrainRush.build/Objects-normal/arm64/Models~partial.swiftmodule"
+  },
+  "/Users/varunjoshi/Downloads/BrainRush/BrainRush/QuestionBank.swift" : {
+    "const-values" : "/Users/varunjoshi/Downloads/BrainRush/build/Build/Intermediates.noindex/BrainRush.build/Debug-iphonesimulator/BrainRush.build/Objects-normal/arm64/QuestionBank.swiftconstvalues",
+    "dependencies" : "/Users/varunjoshi/Downloads/BrainRush/build/Build/Intermediates.noindex/BrainRush.build/Debug-iphonesimulator/BrainRush.build/Objects-normal/arm64/QuestionBank.d",
+    "diagnostics" : "/Users/varunjoshi/Downloads/BrainRush/build/Build/Intermediates.noindex/BrainRush.build/Debug-iphonesimulator/BrainRush.build/Objects-normal/arm64/QuestionBank.dia",
+    "index-unit-output-path" : "/BrainRush.build/Debug-iphonesimulator/BrainRush.build/Objects-normal/arm64/QuestionBank.o",
+    "llvm-bc" : "/Users/varunjoshi/Downloads/BrainRush/build/Build/Intermediates.noindex/BrainRush.build/Debug-iphonesimulator/BrainRush.build/Objects-normal/arm64/QuestionBank.bc",
+    "object" : "/Users/varunjoshi/Downloads/BrainRush/build/Build/Intermediates.noindex/BrainRush.build/Debug-iphonesimulator/BrainRush.build/Objects-normal/arm64/QuestionBank.o",
+    "swift-dependencies" : "/Users/varunjoshi/Downloads/BrainRush/build/Build/Intermediates.noindex/BrainRush.build/Debug-iphonesimulator/BrainRush.build/Objects-normal/arm64/QuestionBank.swiftdeps",
+    "swiftmodule" : "/Users/varunjoshi/Downloads/BrainRush/build/Build/Intermediates.noindex/BrainRush.build/Debug-iphonesimulator/BrainRush.build/Objects-normal/arm64/QuestionBank~partial.swiftmodule"
+  },
+  "/Users/varunjoshi/Downloads/BrainRush/BrainRush/SceneDelegate.swift" : {
+    "const-values" : "/Users/varunjoshi/Downloads/BrainRush/build/Build/Intermediates.noindex/BrainRush.build/Debug-iphonesimulator/BrainRush.build/Objects-normal/arm64/SceneDelegate.swiftconstvalues",
+    "dependencies" : "/Users/varunjoshi/Downloads/BrainRush/build/Build/Intermediates.noindex/BrainRush.build/Debug-iphonesimulator/BrainRush.build/Objects-normal/arm64/SceneDelegate.d",
+    "diagnostics" : "/Users/varunjoshi/Downloads/BrainRush/build/Build/Intermediates.noindex/BrainRush.build/Debug-iphonesimulator/BrainRush.build/Objects-normal/arm64/SceneDelegate.dia",
+    "index-unit-output-path" : "/BrainRush.build/Debug-iphonesimulator/BrainRush.build/Objects-normal/arm64/SceneDelegate.o",
+    "llvm-bc" : "/Users/varunjoshi/Downloads/BrainRush/build/Build/Intermediates.noindex/BrainRush.build/Debug-iphonesimulator/BrainRush.build/Objects-normal/arm64/SceneDelegate.bc",
+    "object" : "/Users/varunjoshi/Downloads/BrainRush/build/Build/Intermediates.noindex/BrainRush.build/Debug-iphonesimulator/BrainRush.build/Objects-normal/arm64/SceneDelegate.o",
+    "swift-dependencies" : "/Users/varunjoshi/Downloads/BrainRush/build/Build/Intermediates.noindex/BrainRush.build/Debug-iphonesimulator/BrainRush.build/Objects-normal/arm64/SceneDelegate.swiftdeps",
+    "swiftmodule" : "/Users/varunjoshi/Downloads/BrainRush/build/Build/Intermediates.noindex/BrainRush.build/Debug-iphonesimulator/BrainRush.build/Objects-normal/arm64/SceneDelegate~partial.swiftmodule"
+  },
+  "/Users/varunjoshi/Downloads/BrainRush/BrainRush/ViewController.swift" : {
+    "const-values" : "/Users/varunjoshi/Downloads/BrainRush/build/Build/Intermediates.noindex/BrainRush.build/Debug-iphonesimulator/BrainRush.build/Objects-normal/arm64/ViewController.swiftconstvalues",
+    "dependencies" : "/Users/varunjoshi/Downloads/BrainRush/build/Build/Intermediates.noindex/BrainRush.build/Debug-iphonesimulator/BrainRush.build/Objects-normal/arm64/ViewController.d",
+    "diagnostics" : "/Users/varunjoshi/Downloads/BrainRush/build/Build/Intermediates.noindex/BrainRush.build/Debug-iphonesimulator/BrainRush.build/Objects-normal/arm64/ViewController.dia",
+    "index-unit-output-path" : "/BrainRush.build/Debug-iphonesimulator/BrainRush.build/Objects-normal/arm64/ViewController.o",
+    "llvm-bc" : "/Users/varunjoshi/Downloads/BrainRush/build/Build/Intermediates.noindex/BrainRush.build/Debug-iphonesimulator/BrainRush.build/Objects-normal/arm64/ViewController.bc",
+    "object" : "/Users/varunjoshi/Downloads/BrainRush/build/Build/Intermediates.noindex/BrainRush.build/Debug-iphonesimulator/BrainRush.build/Objects-normal/arm64/ViewController.o",
+    "swift-dependencies" : "/Users/varunjoshi/Downloads/BrainRush/build/Build/Intermediates.noindex/BrainRush.build/Debug-iphonesimulator/BrainRush.build/Objects-normal/arm64/ViewController.swiftdeps",
+    "swiftmodule" : "/Users/varunjoshi/Downloads/BrainRush/build/Build/Intermediates.noindex/BrainRush.build/Debug-iphonesimulator/BrainRush.build/Objects-normal/arm64/ViewController~partial.swiftmodule"
+  },
+  "/Users/varunjoshi/Downloads/BrainRush/build/Build/Intermediates.noindex/BrainRush.build/Debug-iphonesimulator/BrainRush.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/varunjoshi/Downloads/BrainRush/build/Build/Intermediates.noindex/BrainRush.build/Debug-iphonesimulator/BrainRush.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/varunjoshi/Downloads/BrainRush/build/Build/Intermediates.noindex/BrainRush.build/Debug-iphonesimulator/BrainRush.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/varunjoshi/Downloads/BrainRush/build/Build/Intermediates.noindex/BrainRush.build/Debug-iphonesimulator/BrainRush.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/BrainRush.build/Debug-iphonesimulator/BrainRush.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/varunjoshi/Downloads/BrainRush/build/Build/Intermediates.noindex/BrainRush.build/Debug-iphonesimulator/BrainRush.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/varunjoshi/Downloads/BrainRush/build/Build/Intermediates.noindex/BrainRush.build/Debug-iphonesimulator/BrainRush.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/varunjoshi/Downloads/BrainRush/build/Build/Intermediates.noindex/BrainRush.build/Debug-iphonesimulator/BrainRush.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/varunjoshi/Downloads/BrainRush/build/Build/Intermediates.noindex/BrainRush.build/Debug-iphonesimulator/BrainRush.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  }
+}

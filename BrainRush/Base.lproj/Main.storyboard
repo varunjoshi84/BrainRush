@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="25408" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="BYZ-38-t0r">
+    <device id="retina6_12" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="25407"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--Splash Screen-->
+        <scene sceneID="tne-QT-ifu">
+            <objects>
+                <viewController id="BYZ-38-t0r" userLabel="Splash Screen" customClass="ViewController" customModule="BrainRush" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
+                        <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="brain.head.profile" catalog="system" translatesAutoresizingMaskIntoConstraints="NO" id="splash-icon">
+                                <rect key="frame" x="151.66666666666666" y="296" width="90" height="90"/>
+                                <color key="tintColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="90" id="splash-h"/>
+                                    <constraint firstAttribute="width" constant="90" id="splash-w"/>
+                                </constraints>
+                            </imageView>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="BrainRush" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="splash-title">
+                                <rect key="frame" x="20" y="402" width="353" height="45.666666666666686"/>
+                                <fontDescription key="fontDescription" type="boldSystem" pointSize="38"/>
+                                <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Quiz • Learn • Level Up" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="splash-sub">
+                                <rect key="frame" x="20" y="455.66666666666669" width="353" height="20"/>
+                                <fontDescription key="fontDescription" type="system" weight="medium" pointSize="16"/>
+                                <color key="textColor" white="1" alpha="0.84999999999999998" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <activityIndicatorView opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" animating="YES" style="medium" translatesAutoresizingMaskIntoConstraints="NO" id="splash-spin">
+                                <rect key="frame" x="186.66666666666666" y="515.66666666666663" width="20" height="20"/>
+                                <color key="color" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                            </activityIndicatorView>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Loading..." textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="splash-load">
+                                <rect key="frame" x="20" y="543.66666666666663" width="353" height="17"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                <color key="textColor" white="1" alpha="0.69999999999999996" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
+                        <color key="backgroundColor" red="0.25098039215686274" green="0.0" blue="0.61960784313725492" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <constraints>
+                            <constraint firstItem="splash-title" secondItem="8bC-Xf-vdC" secondAttribute="centerY" constant="-1.1666666666666572" id="c1"/>
+                            <constraint firstItem="splash-spin" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="c10"/>
+                            <constraint firstItem="splash-load" firstAttribute="top" secondItem="splash-spin" secondAttribute="bottom" constant="8" id="c11"/>
+                            <constraint firstItem="splash-load" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="20" id="c12"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="splash-load" secondAttribute="trailing" constant="20" id="c13"/>
+                            <constraint firstItem="splash-title" firstAttribute="top" secondItem="splash-icon" secondAttribute="bottom" constant="16" id="c2"/>
+                            <constraint firstItem="splash-icon" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="c3"/>
+                            <constraint firstItem="splash-title" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="20" id="c4"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="splash-title" secondAttribute="trailing" constant="20" id="c5"/>
+                            <constraint firstItem="splash-sub" firstAttribute="top" secondItem="splash-title" secondAttribute="bottom" constant="8" id="c6"/>
+                            <constraint firstItem="splash-sub" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="20" id="c7"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="splash-sub" secondAttribute="trailing" constant="20" id="c8"/>
+                            <constraint firstItem="splash-spin" firstAttribute="top" secondItem="splash-sub" secondAttribute="bottom" constant="40" id="c9"/>
+                        </constraints>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="135" y="136"/>
+        </scene>
+        <!--Auth View Controller-->
+        <scene sceneID="sEE-eV-ZRP">
+            <objects>
+                <viewController storyboardIdentifier="AuthViewController" id="Gsf-2v-iu6" userLabel="Auth View Controller" customClass="AuthViewController" customModule="BrainRush" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="ZyS-SW-J4n">
+                        <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <viewLayoutGuide key="safeArea" id="pt0-6O-bYJ"/>
+                        <color key="backgroundColor" red="0.25098039215686274" green="0.0" blue="0.61960784313725492" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="aVh-JK-cxs" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="960" y="120"/>
+        </scene>
+        <!--Main Tab Bar Controller-->
+        <scene sceneID="tab-scene-id">
+            <objects>
+                <tabBarController storyboardIdentifier="MainTabBarController" id="main-tab-bar" userLabel="Main Tab Bar Controller" customClass="MainTabBarController" customModule="BrainRush" customModuleProvider="target" sceneMemberID="viewController">
+                    <tabBar key="tabBar" contentMode="scaleToFill" id="tab-bar-item">
+                        <rect key="frame" x="0.0" y="0.0" width="393" height="49"/>
+                        <autoresizingMask key="autoresizingMask"/>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                    </tabBar>
+                    <connections>
+                        <segue destination="dash-nav" kind="relationship" relationship="viewControllers" id="s-dash"/>
+                        <segue destination="topics-nav" kind="relationship" relationship="viewControllers" id="s-topics"/>
+                        <segue destination="achieve-nav" kind="relationship" relationship="viewControllers" id="s-achieve"/>
+                        <segue destination="profile-nav" kind="relationship" relationship="viewControllers" id="s-profile"/>
+                    </connections>
+                </tabBarController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="tab-responder" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="1750" y="120"/>
+        </scene>
+        <!--Dashboard Navigation-->
+        <scene sceneID="d-nav-scene">
+            <objects>
+                <navigationController id="dash-nav" userLabel="Dashboard Navigation" sceneMemberID="viewController">
+                    <tabBarItem key="tabBarItem" title="Home" image="house" catalog="system" selectedImage="house.fill" id="t-dash-item"/>
+                    <navigationBar key="navigationBar" contentMode="scaleToFill" id="nb-dash">
+                        <rect key="frame" x="0.0" y="59" width="393" height="54"/>
+                        <autoresizingMask key="autoresizingMask"/>
+                    </navigationBar>
+                    <connections>
+                        <segue destination="dash-vc" kind="relationship" relationship="rootViewController" id="s-d-root"/>
+                    </connections>
+                </navigationController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="d-nav-resp" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="2500" y="-300"/>
+        </scene>
+        <!--Dashboard View Controller-->
+        <scene sceneID="d-vc-scene">
+            <objects>
+                <viewController id="dash-vc" userLabel="Dashboard View Controller" customClass="DashboardViewController" customModule="BrainRush" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="d-v">
+                        <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <viewLayoutGuide key="safeArea" id="d-guide"/>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                    </view>
+                    <navigationItem key="navigationItem" title="Dashboard" id="d-item"/>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="dash-resp" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="3250" y="-300"/>
+        </scene>
+        <!--Topics Navigation-->
+        <scene sceneID="t-nav-scene">
+            <objects>
+                <navigationController id="topics-nav" userLabel="Topics Navigation" sceneMemberID="viewController">
+                    <tabBarItem key="tabBarItem" title="Topics" image="books.vertical" catalog="system" selectedImage="books.vertical.fill" id="t-top-item"/>
+                    <navigationBar key="navigationBar" contentMode="scaleToFill" id="nb-top">
+                        <autoresizingMask key="autoresizingMask"/>
+                    </navigationBar>
+                    <connections>
+                        <segue destination="topics-vc" kind="relationship" relationship="rootViewController" id="s-t-root"/>
+                    </connections>
+                </navigationController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="top-nav-resp" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="2500" y="400"/>
+        </scene>
+        <!--Topics View Controller-->
+        <scene sceneID="t-vc-scene">
+            <objects>
+                <viewController id="topics-vc" userLabel="Topics View Controller" customClass="TopicsViewController" customModule="BrainRush" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="t-v">
+                        <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <viewLayoutGuide key="safeArea" id="t-guide"/>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                    </view>
+                    <navigationItem key="navigationItem" title="Topics" id="t-item"/>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="top-resp" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="3250" y="400"/>
+        </scene>
+        <!--Achievements Navigation-->
+        <scene sceneID="a-nav-scene">
+            <objects>
+                <navigationController id="achieve-nav" userLabel="Achievements Navigation" sceneMemberID="viewController">
+                    <tabBarItem key="tabBarItem" title="Achievements" image="trophy" catalog="system" selectedImage="trophy.fill" id="t-ach-item"/>
+                    <navigationBar key="navigationBar" contentMode="scaleToFill" id="nb-ach">
+                        <rect key="frame" x="0.0" y="59" width="393" height="54"/>
+                        <autoresizingMask key="autoresizingMask"/>
+                    </navigationBar>
+                    <connections>
+                        <segue destination="achieve-vc" kind="relationship" relationship="rootViewController" id="s-a-root"/>
+                    </connections>
+                </navigationController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="ach-nav-resp" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="2500" y="1100"/>
+        </scene>
+        <!--Achievements View Controller-->
+        <scene sceneID="a-vc-scene">
+            <objects>
+                <viewController id="achieve-vc" userLabel="Achievements View Controller" customClass="AchievementsViewController" customModule="BrainRush" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="a-v">
+                        <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <viewLayoutGuide key="safeArea" id="a-guide"/>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                    </view>
+                    <navigationItem key="navigationItem" title="Achievements" id="a-item"/>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="ach-resp" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="3250" y="1100"/>
+        </scene>
+        <!--Profile Navigation-->
+        <scene sceneID="p-nav-scene">
+            <objects>
+                <navigationController id="profile-nav" userLabel="Profile Navigation" sceneMemberID="viewController">
+                    <tabBarItem key="tabBarItem" title="Profile" image="person" catalog="system" selectedImage="person.fill" id="t-prof-item"/>
+                    <navigationBar key="navigationBar" contentMode="scaleToFill" id="nb-prof">
+                        <rect key="frame" x="0.0" y="59" width="393" height="54"/>
+                        <autoresizingMask key="autoresizingMask"/>
+                    </navigationBar>
+                    <connections>
+                        <segue destination="profile-vc" kind="relationship" relationship="rootViewController" id="s-p-root"/>
+                    </connections>
+                </navigationController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="prof-nav-resp" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="2500" y="1800"/>
+        </scene>
+        <!--Profile View Controller-->
+        <scene sceneID="p-vc-scene">
+            <objects>
+                <viewController id="profile-vc" userLabel="Profile View Controller" customClass="ProfileViewController" customModule="BrainRush" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="p-v">
+                        <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <viewLayoutGuide key="safeArea" id="p-guide"/>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                    </view>
+                    <navigationItem key="navigationItem" title="Profile" id="p-item"/>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="prof-resp" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="3250" y="1800"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="books.vertical" catalog="system" width="128" height="110"/>
+        <image name="books.vertical.fill" catalog="system" width="128" height="113"/>
+        <image name="brain.head.profile" catalog="system" width="116" height="128"/>
+        <image name="house" catalog="system" width="128" height="108"/>
+        <image name="house.fill" catalog="system" width="128" height="108"/>
+        <image name="person" catalog="system" width="128" height="125"/>
+        <image name="person.fill" catalog="system" width="128" height="125"/>
+        <image name="trophy" catalog="system" width="123" height="128"/>
+        <image name="trophy.fill" catalog="system" width="123" height="128"/>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+    </resources>
+</document>

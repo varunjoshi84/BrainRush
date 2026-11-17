@@ -1,0 +1,23 @@
+{
+  "/Users/varunjoshi/Downloads/BrainRush/BrainRush/AchievementsViewController.swift" : {
+    "const-values" : "/Users/varunjoshi/Downloads/BrainRush/build/Build/Intermediates.noindex/BrainRush.build/Debug-iphonesimulator/BrainRush.build/Objects-normal/arm64/AchievementsViewController.swiftconstvalues",
+    "dependencies" : "/Users/varunjoshi/Downloads/BrainRush/build/Build/Intermediates.noindex/BrainRush.build/Debug-iphonesimulator/BrainRush.build/Objects-normal/arm64/AchievementsViewController.d",
+    "diagnostics" : "/Users/varunjoshi/Downloads/BrainRush/build/Build/Intermediates.noindex/BrainRush.build/Debug-iphonesimulator/BrainRush.build/Objects-normal/arm64/AchievementsViewController.dia",
+    "object" : "/Users/varunjoshi/Downloads/BrainRush/build/Build/Intermediates.noindex/BrainRush.build/Debug-iphonesimulator/BrainRush.build/Objects-normal/arm64/AchievementsViewController.o",
+    "swift-dependencies" : "/Users/varunjoshi/Downloads/BrainRush/build/Build/Intermediates.noindex/BrainRush.build/Debug-iphonesimulator/BrainRush.build/Objects-normal/arm64/AchievementsViewController.swiftdeps"
+  },
+  "/Users/varunjoshi/Downloads/BrainRush/BrainRush/AppDelegate.swift" : {
+    "const-values" : "/Users/varunjoshi/Downloads/BrainRush/build/Build/Intermediates.noindex/BrainRush.build/Debug-iphonesimulator/BrainRush.build/Objects-normal/arm64/AppDelegate.swiftconstvalues",
+    "dependencies" : "/Users/varunjoshi/Downloads/BrainRush/build/Build/Intermediates.noindex/BrainRush.build/Debug-iphonesimulator/BrainRush.build/Objects-normal/arm64/AppDelegate.d",
+    "diagnostics" : "/Users/varunjoshi/Downloads/BrainRush/build/Build/Intermediates.noindex/BrainRush.build/Debug-iphonesimulator/BrainRush.build/Objects-normal/arm64/AppDelegate.dia",
+    "object" : "/Users/varunjoshi/Downloads/BrainRush/build/Build/Intermediates.noindex/BrainRush.build/Debug-iphonesimulator/BrainRush.build/Objects-normal/arm64/AppDelegate.o",
+    "swift-dependencies" : "/Users/varunjoshi/Downloads/BrainRush/build/Build/Intermediates.noindex/BrainRush.build/Debug-iphonesimulator/BrainRush.build/Objects-normal/arm64/AppDelegate.swiftdeps"
+  },
+  "/Users/varunjoshi/Downloads/BrainRush/BrainRush/AuthViewController.swift" : {
+    "const-values" : "/Users/varunjoshi/Downloads/BrainRush/build/Build/Intermediates.noindex/BrainRush.build/Debug-iphonesimulator/BrainRush.build/Objects-normal/arm64/AuthViewController.swiftconstvalues",
+    "dependencies" : "/Users/varunjoshi/Downloads/BrainRush/build/Build/Intermediates.noindex/BrainRush.build/Debug-iphonesimulator/BrainRush.build/Objects-normal/arm64/AuthViewController.d",
+    "diagnostics" : "/Users/varunjoshi/Downloads/BrainRush/build/Build/Intermediates.noindex/BrainRush.build/Debug-iphonesimulator/BrainRush.build/Objects-normal/arm64/AuthViewController.dia",
+    "object" : "/Users/varunjoshi/Downloads/BrainRush/build/Build/Intermediates.noindex/BrainRush.build/Debug-iphonesimulator/BrainRush.build/Objects-normal/arm64/AuthViewController.o",
+    "swift-dependencies" : "/Users/varunjoshi/Downloads/BrainRush/build/Build/Intermediates.noindex/BrainRush.build/Debug-iphonesimulator/BrainRush.build/Objects-normal/arm64/AuthViewController.swiftdeps"
+  }
+}
