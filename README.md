@@ -1,4 +1,4 @@
-# ⚡ BrainRush — Master Computer Science with Gamified Trivia
+# ⚡ BrainRush — Quiz and Earn
 
 <div align="center">
 
@@ -10,7 +10,7 @@
 
 <br/>
 
-**Ignite your tech intellect.** Test your CS mastery across Operating Systems, Networking, DBMS, Programming, and Architecture through streak multipliers, XP tiers, and trophy unlocks.
+**Quiz, learn, and earn.** Test your CS knowledge across Operating Systems, Networking, DBMS, Programming, and Architecture to rack up XP, maintain streaks, and unlock trophies.
 
 [Features](#-cool-features) • [Progression Engine](#-rpg-style-progression-engine) • [Tech Stack](#-tech-stack--architecture) • [App Flow](#-application-architecture) • [Quick Start](#-quick-start)
 
